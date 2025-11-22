@@ -12,7 +12,9 @@ export ICON=/usr/share/icons/hicolor/scalable/apps/com.mattjakeman.ExtensionMana
 export DESKTOP=/usr/share/applications/com.mattjakeman.ExtensionManager.desktop
 
 # Deploy dependencies
-dbus-run-session -- quick-sharun /usr/bin/extension-manager
+dbus-run-session -- quick-sharun \
+                    /usr/bin/extension-manager\
+                    /usr/lib/gio/modules/libgiognutls.so
 
 # Additional changes can be done in between here
 
