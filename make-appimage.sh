@@ -12,7 +12,7 @@ export ICON=/usr/share/icons/hicolor/scalable/apps/com.mattjakeman.ExtensionMana
 export DESKTOP=/usr/share/applications/com.mattjakeman.ExtensionManager.desktop
 
 # Deploy dependencies
-quick-sharun /usr/bin/extention-manager
+quick-sharun /usr/bin/extension-manager
 
 # Additional changes can be done in between here
 
