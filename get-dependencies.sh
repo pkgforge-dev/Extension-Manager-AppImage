@@ -7,17 +7,9 @@ ARCH=$(uname -m)
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
-               gtk4 \
-               json-glib \
-               libadwaita \
-               libsoup3 \
-               libxml2 \
                dbus \
                dconf \
-               glib2 \
-               gsettings-desktop-schemas \
-               xorg-server-xvfb \
-               hicolor-icon-theme \
+               glib2 \               
                extension-manager
 
 echo "Installing debloated packages..."
