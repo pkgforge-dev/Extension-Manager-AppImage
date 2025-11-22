@@ -8,6 +8,8 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
              dbus \
+             dconf \
+             glib2 \
              extension-manager
 
 echo "Installing debloated packages..."
