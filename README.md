@@ -1,6 +1,6 @@
 # Unofficial Extension-Manager-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/Shikakiben/Extension-Manager-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Shikakiben/Extension-Manager-AppImage/releases/latest) [![CI Build Status](https://github.com//Shikakiben/Extension-Manager-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/Shikakiben/Extension-Manager-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Extension-Manager-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Extension-Manager-AppImage/releases/latest) [![CI Build Status](https://github.com//pkgforge-dev/Extension-Manager-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Extension-Manager-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mjakeman/extension-manager/0a3f6c96f9fe0fd10c57987007f5c27397ed8632/data/icons/com.mattjakeman.ExtensionManager.svg" width="128" /> 
@@ -8,7 +8,7 @@
 
 * Official site: https://github.com/mjakeman/extension-manager
 
-* [Latest Stable Release](https://github.com/Shikakiben/Extension-Manager-AppImage/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/Extension-Manager-AppImage/releases/latest)
 
 ---
 
