@@ -10,7 +10,7 @@ pacman -Syu --noconfirm extension-manager
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
-get-debloated-pkgs --add-mesa librsvg-mini gdk-pixbuf2-mini libxml2-mini
+get-debloated-pkgs --add-common --prefer-nano
 
 # Comment this out if you need an AUR package
 #make-aur-package PACKAGENAME
